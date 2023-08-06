@@ -1,0 +1,1 @@
+Created and used for explaination of creating a python .env file using python-dotenv  import and hiding the .env file via .gitignore command.
